@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">midmid</string>
+    <string name="start">เริ่มต้น</string>
+    <string name="exit_application">สิ้นสุดโปรแกรม</string>
+    <string name="height_cm">ส่วนสูง</string>
+    <string name="weight_kg">น้ำหนัก</string>
+    <string name="calculator">คำนวณ</string>
+</resources>

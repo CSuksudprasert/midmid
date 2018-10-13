@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">midmid</string>
+    <string name="start">Start</string>
+    <string name="exit_application">exit application</string>
+    <string name="height_cm">Height(cm)</string>
+    <string name="weight_kg">Weight(kg)</string>
+    <string name="calculator">calculator</string>
 </resources>
